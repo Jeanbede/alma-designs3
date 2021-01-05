@@ -109,6 +109,7 @@ body{
     a{
         font-size: 30px;
         text-shadow: rgb(0, 8, 0) 2px 2px;
+        transition: -0s;
     }
  .last> p{
 color: rgb(1, 71, 71);
